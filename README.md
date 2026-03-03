@@ -1,2 +1,1 @@
-# test
-テスト
+`This is a test repository for Claude Code.`
